@@ -1,0 +1,90 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+how are you,wellbeing
+how's it going,wellbeing
+what can you do,functions
+can you help,functions
+what are your functions,functions
+features,functions
+help,functions
+name,repeatname
+my name is name,repeatname
+what is my name,repeatname
+repeat my name,repeatname
+say my name,repeatname
+call me,repeatname
+change name,repeatname
+forget name,changename
+what are,qa
+what are x and y,qa
+where is,qa
+how does x work,qa
+i want to know,qa
+what is the answer to,qa
+can you look up answer,qa
+can you tell me about,qa
+what is the,qa
+definition,qa
+i want to make a purchase order transaction,transaction
+i want to buy purchase order something,transaction
+buy this,transaction
+can i buy x,transaction
+buy item for me,transaction
+purchase this item,transaction
+buy item,transaction
+order item,transaction
+purchase item,transaction
+add items to cart,transaction
+can i buy purchase order item,transaction
+i want this delivered to my home,checkout
+i want to checkout,checkout
+i want to pay,checkout
+all of my groceries,checkout
+purchase all items,checkout
+finish order,checkout
+complete order,checkout
+please checkout,checkout
+deliver items,checkout
+credit card,checkout
+arrange delivery,checkout
+debit card,checkout
+i want to use cash,checkout
+see cart,viewcart
+view cart,viewcart
+what have i bought,viewcart
+what did i buy,viewcart
+what have i purchased,viewcart
+tell me what i've bought,viewcart
+i want to see what i've ordered,viewcart
+what have i ordered,viewcart
+what is in my cart,viewcart
+can i see cart,viewcart
+look at order,viewcart
+look at view see basket,viewcart
+shopping cart,viewcart
+do i have right now,viewcart
+what is the price,viewcart
+what did i order buy purchase,viewcart
+what can i buy order purchase,viewstock
+what kind of stuff things,viewstock
+what groceries,viewstock
+what do you have in stock,viewstock
+what is in stock,viewstock
+what items do you have,viewstock
+what kind of items things do you have,viewstock
+what things stuff can i buy,viewstock
+what's in stock,viewstock
+what groceries do you have,viewstock
+what else can i,viewstock
+examples of what i can buy purchase,viewstock
+edit basket quantity,editcart
+i want to edit my cart,editcart
+empty cart,editcart
+change cart,editcart
+edit cart,editcart
+i want to change the quantity,editcart
+take items away,editcart
+add items,editcart
+remove items from cart,editcart
